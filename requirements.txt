@@ -1,0 +1,4 @@
+pynput>=1.7
+pygame-ce>=2.5   # community edition — required for Python 3.14 mixer support
+numpy>=1.24
+soundfile>=0.12

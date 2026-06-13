@@ -1,0 +1,6 @@
+# Ignore the generated sounds directory
+sounds/
+
+# Ignore any stray audio files just in case
+*.caf
+*.wav
